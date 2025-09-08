@@ -1,6 +1,6 @@
 # Bereket Gebremariam
 # Assignment 1
-# 
+# MSCS 532
 def insertion_sort_decreasing(arr):
     """
     Sorts an array in monotonically decreasing order using the Insertion Sort algorithm.
